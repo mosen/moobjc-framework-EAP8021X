@@ -17,7 +17,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+
 lib64/
 parts/
 sdist/
@@ -140,8 +140,5 @@ crashlytics-build.properties
 fabric.properties
 
 *.iml
-
-# EAP8021x from opensource.apple
-eap8021x-*
 
 .DS_Store
