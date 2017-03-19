@@ -1,0 +1,248 @@
+// objective.metadata exceptions file, see its document
+// for information on how to update this file.
+{
+ "definitions": {
+  "classes": {}, 
+  "formal_protocols": {}, 
+  "functions": {
+   "EAPOLClientConfigurationAddProfile": {
+    "args": {
+     "0": {}, 
+     "1": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCopyAllLoginWindowProfiles": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCopyAllSystemProfiles": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCopyLoginWindowProfiles": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCopyMatchingProfiles": {
+    "args": {
+     "0": {}, 
+     "1": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCopyProfiles": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationCreate": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientConfigurationCreateWithAuthorization": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientConfigurationGetDefaultAuthenticationProperties": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationGetProfileWithID": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {}
+   }, 
+   "EAPOLClientConfigurationGetProfileWithWLANDomain": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {}
+   }, 
+   "EAPOLClientConfigurationGetProfileWithWLANSSID": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {}
+   }, 
+   "EAPOLClientConfigurationGetSystemProfile": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {}
+   }, 
+   "EAPOLClientConfigurationRemoveProfile": {
+    "args": {
+     "0": {}, 
+     "1": {}
+    }
+   }, 
+   "EAPOLClientConfigurationSave": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationSetDefaultAuthenticationProperties": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationSetLoginWindowProfiles": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientConfigurationSetSystemProfile": {
+    "args": {
+     "0": {}, 
+     "2": {}
+    }
+   }, 
+   "EAPOLClientItemIDCopyIdentity": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientItemIDCopyPasswordItem": {
+    "args": {
+     "0": {}, 
+     "2": {}, 
+     "3": {}
+    }
+   }, 
+   "EAPOLClientItemIDCreateDefault": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientItemIDCreateWithProfile": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientItemIDCreateWithProfileID": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientItemIDCreateWithWLANDomain": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientItemIDCreateWithWLANSSID": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientItemIDRemovePasswordItem": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientItemIDSetIdentity": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientItemIDSetPasswordItem": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileCreate": {
+    "args": {
+     "0": {}
+    }, 
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientProfileCreatePropertyList": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileCreateWithPropertyList": {
+    "retval": {
+     "already_cfretained": true
+    }
+   }, 
+   "EAPOLClientProfileGetAuthenticationProperties": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileGetID": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileGetInformation": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileGetUserDefinedName": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileGetWLANDomain": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileGetWLANSSIDAndSecurityType": {
+    "args": {
+     "0": {}, 
+     "1": {}
+    }
+   }, 
+   "EAPOLClientProfileSetAuthenticationProperties": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileSetInformation": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileSetUserDefinedName": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileSetWLANDomain": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPOLClientProfileSetWLANSSIDAndSecurityType": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPPacketGetLength": {
+    "args": {
+     "0": {}
+    }
+   }, 
+   "EAPPacketSetLength": {
+    "args": {
+     "0": {}
+    }
+   }
+  }, 
+  "informal_protocols": {}
+ }
+}
