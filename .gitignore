@@ -143,3 +143,5 @@ fabric.properties
 
 # EAP8021x from opensource.apple
 eap8021x-*
+
+.DS_Store
